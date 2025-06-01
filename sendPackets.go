@@ -14,7 +14,7 @@ import (
 )
 
 var(
-	device	string = "wlx1cbfce6faa73"
+	device	string = "wlx1cbfce6faa7300"
 	snapshot_len	int32 = 1024
 	promiscuous		bool = false
 	timeout		time.Duration = -1*time.Second
